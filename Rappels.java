@@ -3,3 +3,7 @@ public class Rappels{
         System.out.println("Rappel : relire le cours");
     }
 }
+  public static void main(String[] args){
+    System.out.println("Rappel : rendre le TP vendredi");
+  }
+}
